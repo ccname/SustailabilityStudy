@@ -6,3 +6,4 @@ def foo():
 foo()
 
 print('nihao')
+print('aihaobuhao')
