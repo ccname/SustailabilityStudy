@@ -10,3 +10,5 @@ print('aihaobuhao')
 
 print('wobuhao')
 print('dev修改了404')
+print('dev')
+print('404')
