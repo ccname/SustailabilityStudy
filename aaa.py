@@ -4,3 +4,5 @@ def foo():
     print('function foo')
 
 foo()
+
+print('nihao')
