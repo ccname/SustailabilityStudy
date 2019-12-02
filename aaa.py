@@ -6,3 +6,5 @@ def foo():
 foo()
 
 print('nihao')
+
+print('wobuhao')
