@@ -7,3 +7,5 @@ foo()
 
 print('nihao')
 print('aihaobuhao')
+
+print('wobuhao')
