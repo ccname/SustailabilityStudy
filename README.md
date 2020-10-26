@@ -1,13 +1,13 @@
 ## 标题先空着
-记录工作中踩坑与填坑的过程，以及学习一些新知识
+> 记录工作中踩坑与填坑的过程，以及学习一些新知识
+>
+> [996.ICU](https://github.com/996icu/996.ICU): 工作 996，生病 ICU。
+>
+> [955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
+>
+> [1155.Life](https://github.com/formulahendry/1155.Life): 工作 11-5-5，生活为先。
 
-[996.ICU](https://github.com/996icu/996.ICU): 工作 996，生病 ICU。
-
-[955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
-
-[1155.Life](https://github.com/formulahendry/1155.Life): 工作 11-5-5，生活为先。
-
-
+***
 
 ### Project(关于项目)
 
@@ -23,16 +23,17 @@
 
 ### 数据库
 
-- [mysql笔记]()
-- [Sql查询语句]()
-- [mysql优化]()
+- [mysql笔记.md](https://github.com/ccname/SustailabilityStudy/blob/master/数据库/mysql笔记.md)
+- [sql查询.md](https://github.com/ccname/SustailabilityStudy/blob/master/数据库/sql查询.md)
+- [mysql优化.md](https://github.com/ccname/SustailabilityStudy/blob/master/数据库/优化.md)
 
 ### 前端
 
-- [css]()
-- [js]()
-- [jQuery]()
+- [css](https://github.com/ccname/SustailabilityStudy/blob/master/%E5%89%8D%E7%AB%AF/css.md)
+- [js](https://github.com/ccname/SustailabilityStudy/blob/master/%E5%89%8D%E7%AB%AF/js.md)
+- [jQuery](https://github.com/ccname/SustailabilityStudy/blob/master/%E5%89%8D%E7%AB%AF/jQuery.md)
 
-- [npm]()
-- [vue]()
-- [j s显示与隐藏的应用]()
+- [npm](https://github.com/ccname/SustailabilityStudy/blob/master/%E5%89%8D%E7%AB%AF/npm.md)
+- [vue.md](https://github.com/ccname/SustailabilityStudy/blob/master/前端/vue 杂七杂八.md)
+- [js显示和隐藏应用.md](https://github.com/ccname/SustailabilityStudy/blob/master/前端/js 实现点击显示和隐藏.md)
+
