@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 def process_item(self, item, spider):
     logger.warning(item)
- ```   
+```
 ### python loguru 日志模块简单使用
 参考链接：https://blog.csdn.net/mouday/article/details/88560543
 ```
