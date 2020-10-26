@@ -34,6 +34,6 @@
 - [jQuery](https://github.com/ccname/SustailabilityStudy/blob/master/%E5%89%8D%E7%AB%AF/jQuery.md)
 
 - [npm](https://github.com/ccname/SustailabilityStudy/blob/master/%E5%89%8D%E7%AB%AF/npm.md)
-- [vue 杂七杂八.md](https://github.com/ccname/SustailabilityStudy/blob/master/前端/vue 杂七杂八.md)
-- [js 实现点击显示和隐藏.md](https://github.com/ccname/SustailabilityStudy/blob/master/前端/js 实现点击显示和隐藏.md)
+- [vue 杂七杂八.md](https://github.com/ccname/SustailabilityStudy/blob/master/前端/vue%20杂七杂八.md)
+- [js 实现点击显示和隐藏.md](https://github.com/ccname/SustailabilityStudy/blob/master/前端/js%20实现点击显示和隐藏.md)
 
