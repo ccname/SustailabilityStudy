@@ -25,3 +25,14 @@ npm root 查看依赖安装路径（也就是node_modules的路径）
 #### npm view 查看模块的注册信息
 - xxx versions 列出xxx的所有版本， 如：npm view jquery versions。
 - xxx dependencies 列出xxx的所有依赖， 如：npm view gulp dependencies。
+
+
+
+**npm安装webpack 失败解决方案**
+
+- npm cache clean --force
+
+**最新版的npm打包命令之间要加上-o**
+
+- webpack --mode=development app.js -o bundle.js 
+

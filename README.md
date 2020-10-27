@@ -57,3 +57,11 @@
 - [docker](https://github.com/ccname/SustailabilityStudy/blob/master/interview/docker.md)
 
 - [多线程爬虫实例](https://github.com/ccname/SustailabilityStudy/blob/master/interview/多线程爬虫实例.md)
+- 高频面试问题
+
+### Redis
+
+- 基础数据类型及应用
+- Redis 和 memcached区别
+- 常见问题及解决方式
+
