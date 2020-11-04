@@ -6,6 +6,8 @@
 > [955.WLB](https://github.com/formulahendry/955.WLB): 工作 955，work–life balance (工作与生活的平衡)。
 >
 > [1155.Life](https://github.com/formulahendry/1155.Life): 工作 11-5-5，生活为先。
+>
+> 安利：一个讲课很多干货的视频网站, 表锅雄起--[表严肃](https://biaoyansu.com/i/65930213502131)
 
 ***
 
